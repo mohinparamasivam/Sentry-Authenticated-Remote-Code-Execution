@@ -21,7 +21,7 @@ optional arguments:
   --url URL   Sentry Login URL
               
               
-![alt text](https://github.com/[mohinparamasivam]/[Sentry-Authenticated-Remote-Code-Execution]/blob/[main]/sentry_exploit.png?raw=true)              
+![alt text](https://github.com/mohinparamasivam/Sentry-Authenticated-Remote-Code-Execution/blob/main/sentry_exploit.png?raw=true)              
               
 
 
