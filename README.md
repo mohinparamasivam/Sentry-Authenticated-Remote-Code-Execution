@@ -14,6 +14,7 @@ usage: exploit.py [-h] [-U U] [-P P] [-l L] [-p P] [--url URL]
 
 Sentry < 8.2.2 Authenticated RCE
 
+<p>              
 optional arguments:
   -h, --help  show this help message and exit
   -U U        Sentry Admin Username / Email
@@ -21,7 +22,7 @@ optional arguments:
   -l L        Rev Shell LHOST
   -p P        Rev Shell LPORT
   --url URL   Sentry Login URL
-              
+<p>            
               
 ![alt text](https://github.com/mohinparamasivam/Sentry-Authenticated-Remote-Code-Execution/blob/main/sentry_exploit.png?raw=true)              
               
